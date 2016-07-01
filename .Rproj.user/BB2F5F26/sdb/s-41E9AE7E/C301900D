@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1467301185440.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C301900D",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1467301185440,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5evthf2hvc",
+        "caption" : "warAnalysis",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=warAnalysis&cache_key=5evthf2hvc",
+        "displayedObservations" : 4,
+        "environment" : "",
+        "object" : "warAnalysis",
+        "totalObservations" : 4,
+        "variables" : 4
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
